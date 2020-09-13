@@ -12,7 +12,9 @@
 	<artifactId>Boot-Mail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Boot-Mail</name>
-	<description>Dlocal changes made by kamlesh</description>
+
+	<description>Dlocal changes made by kamlesh corrected</description>
+
 
 	<properties>
 		<java.version>1.9</java.version>
